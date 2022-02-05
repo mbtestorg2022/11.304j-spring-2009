@@ -77,17 +77,179 @@ Progress during the semester and striving for improvement will be credited.
 Calendar
 --------
 
-| Week # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Site planning: introduction | &nbsp; |
-| 2 | Site and landscape planning processes | Future scenarios assignment due |
-| 3 | Site inventory and evaluation |  {{< br >}}{{< br >}} Landscape units and site physiography mapping and transects assignment due {{< br >}}{{< br >}} Alternatives and new approaches to site and infrastructure technologies assignment due {{< br >}}{{< br >}}  |
-| 4 | Earthwork, soils | &nbsp; |
-| 5 | Earthwork and utilities | Technology-driven schematic site plan investigation assignment due |
-| 6 | Storm water: best management practices | &nbsp; |
-| 7 | Sites around wetlands and water features | Sekisui presentations |
-| 8 | Traffic and circulation | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Subdivisions, neighborhood design and sustainability {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Tasks 1, 2, and 3 of Final Project due {{< br >}}{{< br >}}  |
-| 10 | Graphic communication | &nbsp; |
-| 11-14 | Project work | Task 4 and 5 of Final Project due |
-| 15 | Wrap up, debriefing | Final site plans and typologies due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Site planning: introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Site and landscape planning processes
+{{< tdclose >}}
+{{< tdopen >}}
+Future scenarios assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Site inventory and evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Landscape units and site physiography mapping and transects assignment due
+
+Alternatives and new approaches to site and infrastructure technologies assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Earthwork, soils
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Earthwork and utilities
+{{< tdclose >}}
+{{< tdopen >}}
+Technology-driven schematic site plan investigation assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Storm water: best management practices
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sites around wetlands and water features
+{{< tdclose >}}
+{{< tdopen >}}
+Sekisui presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Traffic and circulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Subdivisions, neighborhood design and sustainability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tasks 1, 2, and 3 of Final Project due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Graphic communication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-14
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+Task 4 and 5 of Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up, debriefing
+{{< tdclose >}}
+{{< tdopen >}}
+Final site plans and typologies due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
