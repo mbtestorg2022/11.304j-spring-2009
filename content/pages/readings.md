@@ -122,7 +122,7 @@ Earthwork and utilities
 
 Campbell, Craig S., and Michael H. Ogden. _Constructed Wetlands in the Sustainable Landscape_. New York City, NY: Wiley, 1999, chapter 5. ISBN: 9780471107200.
 
-Hydrology Handbook for Conservation Commissioners (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB](https://www.mass.gov/files/documents/2016/08/wa/hydrol.pdf))
+Hydrology Handbook for Conservation Commissioners ([PDF - 2.7MB](https://www.mass.gov/files/documents/2016/08/wa/hydrol.pdf))
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Low Impact Development ([PDF - 3.3MB](http://www.huduser.org/publications/pdf/pr
 
 \[France\] pp. 18-47
 
-Stormwater Management - Volume One (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://nepis.epa.gov/Exe/ZyNET.exe/9101OI3P.TXT?ZyActionD=ZyDocument&Client=EPA&Index=Prior+to+1976&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C70thru75%5CTxt%5C00000024%5C9101OI3P.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL))
+Stormwater Management - Volume One ([PDF](https://nepis.epa.gov/Exe/ZyNET.exe/9101OI3P.TXT?ZyActionD=ZyDocument&Client=EPA&Index=Prior+to+1976&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C70thru75%5CTxt%5C00000024%5C9101OI3P.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL))
 
 \[Lyle\] Chapter 6
 
@@ -182,7 +182,7 @@ Gallion, Arthur B. _The Urban Pattern: City Planning and Design_. New York City,
 
 \[Lynch and Hack\] Chapter 7
 
-Wolf, Kathleen L. "Trees, Parking and Green Law: Strategies for Sustainability." USDA Forest Service & Georgia Forestry Commission, February 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB](http://www.naturewithin.info/Roadside/Trees_Parking_Green%20Law.pdf))
+Wolf, Kathleen L. "Trees, Parking and Green Law: Strategies for Sustainability." USDA Forest Service & Georgia Forestry Commission, February 2004. ([PDF - 2.7MB](http://www.naturewithin.info/Roadside/Trees_Parking_Green%20Law.pdf))
 
 
 {{< tdclose >}}
