@@ -6,6 +6,7 @@ description: This overview of the course provides information on the goals and o
   approaches to site and infrastructure planning.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/1fc5a91ccfcb1f6d65a906513ec85fd0_MIT11_304js09_handout.pdf
 file_type: application/pdf
+parent_uid: 24e2ed43-959d-d259-68e8-f7109ffc967f
 resourcetype: Document
 title: Overview
 uid: 1fc5a91c-cfcb-1f6d-65a9-06513ec85fd0
